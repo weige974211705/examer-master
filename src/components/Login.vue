@@ -4,7 +4,7 @@
     <!--      <img src="/static/superlogin.jpg" alt="">-->
     <!--    </div>-->
     <div class="container">
-      <h2>在线考试系统登录</h2>
+      <h2>课程考核管理系统登录</h2>
       <div class="username">
         <label>用户名:</label>
         <el-input v-model="username" placeholder="请输入用户名"></el-input>

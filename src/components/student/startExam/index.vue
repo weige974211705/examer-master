@@ -13,9 +13,9 @@
                 <el-button @click="addOpenPaper">
                     添加公开考试
                 </el-button>
-                <el-button type="primary" @click="addExam">
-                    添加考试
-                </el-button>
+<!--                <el-button type="primary" @click="addExam">-->
+<!--                    添加考试-->
+<!--                </el-button>-->
             </div>
             <div class="exam-list">
                 <div class="exam-box" v-for="(item,index) in eList" :key="index">

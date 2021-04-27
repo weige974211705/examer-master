@@ -2,7 +2,7 @@
     <div id="teacher-manage">
         <div class="header" :style="'background-color:' + this.$store.state.config.theme">
             <div class="title">
-                <h1>在线考试系统</h1>
+                <h1>课程考核管理系统</h1>
             </div>
             <div class="info">
                 <div class="img">
